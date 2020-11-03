@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8dd2cc3-6335-456e-b446-c45eb115b61f" name="Default Changelist" comment="" />
+    <list default="true" id="e8dd2cc3-6335-456e-b446-c45eb115b61f" name="Default Changelist" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rank.js" beforeDir="false" afterPath="$PROJECT_DIR$/rank.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,18 +34,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604348351464</updated>
-      <workItem from="1604348353020" duration="6083000" />
+      <workItem from="1604348353020" duration="9035000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1604364932997</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604364932997</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1220" y="265" key="FileChooserDialogImpl" timestamp="1604364685562">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604364685562" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1604365650196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604365650196" />
     <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1604355257177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
